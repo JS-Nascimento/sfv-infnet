@@ -1,0 +1,4 @@
+Venda: 2222;CLIENTE:Jorge Nascimento;Pessoa Física;084.686.267-08;16/12/2022;Não;R$ 1.599,99;R$ 385,16;R$ 1.214,83;3
+Vendedor:Fernando;fernando@mail.com;Pessoa Física;5%;R$ 120.000,00;Zona Oeste
+Gerente:Carlos Frederico;carlos@vendas.com.br;Pessoa Física;10%;10;Equipe Furação
+Fornecedor:3m do Brasil;contato@mmm.com;Pessoa Jurídica;Fornecedor Fidelizado;5%;6%
